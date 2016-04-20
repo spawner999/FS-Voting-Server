@@ -24,6 +24,7 @@
     ]
   },
   "dependencies": {
-    "immutable": "^3.8.0"
+    "immutable": "^3.8.0",
+    "redux": "^3.5.1"
   }
 }
